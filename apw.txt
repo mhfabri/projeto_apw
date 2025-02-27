@@ -1,0 +1,5 @@
+requisitos:
+definiçao: descriçao das funcionalidades e restriçoes de um sistema
+ripos de requisitos:
+funcionalidades: descrevem oque o sistema deve fazer
+nao funcionais: descrevem restriçoes de desempenho, sgurança, usabilidade, etc...
